@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.33
+sentence-transformers==2.2.2
+scikit-learn==1.1.2
+requests==2.28.1
