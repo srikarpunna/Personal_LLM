@@ -1,7 +1,5 @@
 # Personal AI Assistant with Persistent Memory
 
-# Personal AI Assistant with Persistent Memory
-
 This project is a Personal AI Assistant designed to act as a conversational friend, capable of storing and recalling personal information such as your name, tasks, appointments, behavior, likes, dislikes, health conditions, and more. It uses a combination of semantic vector search and structured key-value storage to provide contextually relevant responses across sessions, ensuring that the assistant can remember and adapt to user interactions over time.
 
 The assistant leverages a MySQL database for persistent memory, storing user interactions, embeddings, and key-value pairs dynamically extracted from conversations. The AI model used is llama3.1, and the project is implemented using Python, with integration of the sentence-transformers library for generating embeddings.
