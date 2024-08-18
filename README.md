@@ -91,6 +91,17 @@ database="LLM"
 )
 ```
 
+## Download the LLaMA 8B 3.1 Model Locally
+
+To run the LLaMA model locally, you'll need to download the LLaMA 8B 3.1 model using ollama.
+
+### Install Ollama (if not already installed)
+
+1. Download Ollama: Visit the official Ollama website and download the installer for your operating system.
+2. Install Ollama: Follow the installation instructions provided by Ollama.
+
+### Download the LLaMA 8B 3.1 Model
+
 ## Usage
 
 Running the Assistant
